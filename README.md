@@ -50,7 +50,6 @@ To play against the AI opponent, select "Play Against AI" from the game options.
   - **index.html**: The main HTML file for displaying the chessboard and move history.
   - **app.js**: Handles frontend logic, including board rendering and interaction with the server.
   - **styles.css**: Contains styling for the chessboard and other UI components.
-- **ai.js**: A simple AI module that makes random legal moves, allowing single-player mode against a computer opponent.
 
 ## Gameplay Instructions
 - **Starting a New Game**: Click the "New Game" button on the top navigation bar to reset the game.
