@@ -16,7 +16,6 @@ The chess game allows players to take turns moving pieces according to standard 
 - **Move History**: Displays a sidebar showing all moves in real-time, including captures, using standard chess notation.
 - **Visual Enhancements**: Includes piece icons for a better visual experience, highlights selected pieces, and provides animations to indicate valid moves.
 - **Persistent State**: Game state and move history are saved using local storage, allowing players to continue a game if they reload the page.
-- **AI Opponent**: Play against a simple AI opponent that makes random legal moves when playing against a human. This AI does not require an API key and is included locally, providing a straightforward challenge for beginners.
 
 ## Setup Instructions
 ### Prerequisites
