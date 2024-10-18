@@ -41,8 +41,6 @@ The chess game allows players to take turns moving pieces according to standard 
 4. **Open the Game**:
    - Navigate to `http://localhost:3000` in your browser to start playing.
 
-### Playing Against AI
-To play against the AI opponent, select "Play Against AI" from the game options. The AI will make a move each time it's its turn, providing a fun way to practice.
 
 ## Project Structure
 - **server.js**: The Node.js backend that manages the game state and serves the frontend files.
