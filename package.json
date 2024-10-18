@@ -1,0 +1,16 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "This is a simple chess game implementation using Node.js for the backend and HTML/CSS/JavaScript for the frontend. It includes a visual chessboard that players can interact with, and the state of the game is stored locally in the browser. The game also features multiplayer capabilities using Socket.IO and is styled with Tailwind CSS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  }
+}
