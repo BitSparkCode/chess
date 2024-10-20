@@ -1,5 +1,7 @@
 # Chess Game - Node.js Implementation
 
+![2024-10-20_11-44-47](https://github.com/user-attachments/assets/39709cb8-4b4a-4616-94b7-c242e53ee0f6)
+
 ## Overview
 This project is a simple, playable chess game built using Node.js for the backend and HTML/CSS/JavaScript for the frontend. The game includes a fully functional chessboard, game rules validation, move history tracking, and visual elements to make it user-friendly and enjoyable. The primary technologies used include:
 
